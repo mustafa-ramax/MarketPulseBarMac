@@ -121,19 +121,15 @@ This lets MarketPulseBar work as both a focused **macOS stock ticker** and a bro
 
 ### Watchlist
 
-![MarketPulseBar watchlist with stocks, crypto, ETFs, forex, gold and silver](assets/marketpulsebar-watchlist.png)
+![MarketPulseBar watchlist with stocks, crypto, ETFs, forex, gold and silver](assets/marketpulsebar-watchlist.jpg)
 
 ### Mac menu bar ticker
 
-![MarketPulseBar stock and crypto ticker in the macOS menu bar](assets/marketpulsebar-menu-bar-ticker.png)
-
-### Display controls
-
-![MarketPulseBar menu bar display controls](assets/marketpulsebar-display-controls.png)
+![MarketPulseBar stock and crypto ticker in the macOS menu bar](assets/marketpulsebar-menu-bar-ticker.jpg)
 
 ### Settings
 
-![MarketPulseBar watchlist, refresh and display settings](assets/marketpulsebar-settings.png)
+![MarketPulseBar watchlist, refresh and display settings](assets/marketpulsebar-settings.jpg)
 
 ---
 
